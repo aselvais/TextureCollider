@@ -8,6 +8,7 @@ This class can be attached to a gameObject in Unity. Once applied, the object wi
 
 ## ToDos
 
+- Make the transition from one color to the other progressive
 - Mix different colors if colliding with multiple objects
 - Take the image mapped to the colliding object and apply it
 
